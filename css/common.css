@@ -35,7 +35,7 @@ a {
 button {
  cursor: pointer;
  border: none;
- box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+
 }
 
 address {
@@ -121,8 +121,3 @@ a.current {
  border-radius: 40px;
  background-color: #4d5ae5;
 }
-
-
-.social-link:hover,
-.portfolio-item:hover,
-.footer-link:hover {}
