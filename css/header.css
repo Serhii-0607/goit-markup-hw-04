@@ -22,7 +22,9 @@
  gap: 40px;
 }
 
-.main-nav-item {}
+.main-nav-item {
+ position: relative;
+}
 
 .main-nav-link {
  display: inline-flex;

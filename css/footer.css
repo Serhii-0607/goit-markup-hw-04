@@ -3,6 +3,11 @@
  background-color: #2e2f42;
 }
 
+.footer-text {
+ max-width: 264px;
+ margin-right: 120px;
+}
+
 .footer-logo,
 .footer-slogan {
  color: #f4f4fd;
@@ -14,5 +19,24 @@
 }
 
 .footer-slogan {
- max-width: 264px;
+ width: 264px;
+}
+
+.footer-socials {
+ width: 208px;
+}
+
+.footer-link:hover {
+ background-color: #31d0aa;
+}
+
+
+.footer-socials-title {
+ font-weight: 500;
+ color: #fff;
+ margin-bottom: 8px;
+}
+
+.footer-wrapper {
+ display: flex;
 }
