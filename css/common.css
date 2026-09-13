@@ -108,7 +108,7 @@ img {
  background-color: #404bbf;
 }
 
-a.current {
+.main-nav-link.current {
  color: #404bbf;
 }
 
